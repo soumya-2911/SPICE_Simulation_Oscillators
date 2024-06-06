@@ -1,1 +1,2 @@
-# SPICE_Simulation_Oscillators
+# SPICE Simulation Mathematical analysis and designing an oscillator
+##Project_Overview
